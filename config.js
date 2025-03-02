@@ -168,8 +168,8 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "『𝑴𝑹﹝🫐﹞𝑨𝑶𝑲𝑰𝑱𝑰』 : 『𝑅𝐼𝑇𝐴﹝🍇﹞𝐵𝛩𝑇』"
-global.igfg = "『𝑅𝐼𝑇𝐴﹝🍇﹞𝐵𝛩𝑇』"
+global.wm = "『𝑹𝑰𝑻𝑨 𝑩𝑶𝑻 ﹝🍉﹞ 𝑴𝑹_𝑨𝑶𝑲𝑰𝑱𝑰 』"
+global.igfg = "『𝑹𝑰𝑻𝑨 𝑩𝑶𝑻 ﹝🍉﹞ 𝑴𝑹_𝑨𝑶𝑲𝑰𝑱𝑰 』"
 global.nomorown = "212657035661"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
