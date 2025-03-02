@@ -428,18 +428,18 @@ else return emotttt[results[0][0]];
 
 // IDs de canales
 global.ch = {
-ch1: '120363336642332098@newsletter',
-ch2: '120363160031023229@newsletter',
-ch3: '120363169294281316@newsletter',
-ch4: '120363203805910750@newsletter',
-ch5: '120363302472386010@newsletter',
-ch6: '120363301598733462@newsletter',
-ch7: '120363190430436554@newsletter',
-ch8: '120363374372683775@newsletter', 
-ch9: '120363167110224268@newsletter',
-ch10: '120363323882134704@newsletter',
-ch11: '120363370415738881@newsletter',
-ch12: '120363385983031660@newsletter',
+ch1: '120363343103376758@newsletter',
+ch2: '120363343103376758@newsletter',
+ch3: '120363343103376758@newsletter',
+ch4: '120363343103376758@newsletter',
+ch5: '120363343103376758@newsletter',
+ch6: '120363343103376758@newsletter',
+ch7: '120363343103376758@newsletter',
+ch8: '120363343103376758@newsletter', 
+ch9: '120363343103376758@newsletter',
+ch10:'120363343103376758@newsletter',
+ch11: '120363343103376758@newsletter',
+ch12: '120363343103376758@newsletter',
 }
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
